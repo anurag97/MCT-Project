@@ -1,4 +1,4 @@
 # MCT-Project
-main branch - Anurag Patyreia
+main branch - Anurag Pateriya
 
 master branch - Hitesh Kumar
